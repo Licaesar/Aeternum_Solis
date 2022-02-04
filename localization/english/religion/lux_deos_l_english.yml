@@ -1,0 +1,31 @@
+﻿l_english:
+
+ #Other
+ hostility_override_tenet_sun_worship:1 "Considers other Sun-worshiping [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of $hostility_hostile_tooltippable$ or $hostility_evil_tooltippable$"
+
+ #Sol Invictus - god
+ sol_high_god_name:0 "Sol Invictus"
+ sol_high_god_name_possessive:0 "Sol's"
+ sol_high_god_name_alternate:0 "Sol"
+ sol_high_god_name_alternate_possessive:0 "Sol's"
+ darkness_devil_name:0 "The Darkness"
+ darkness_devil_name_possessive:0 "Darkness'"
+ 
+ #Sol Invictus
+ holy_order_shields_of_sol:0 "Scuta Solis"
+ holy_order_knights_of_caesar:0 "Praetoriani"
+ holy_order_knights_of_lux:0 "Lux Bellatores"
+ sol_religious_symbol:0 "Sol"
+ sol_religious_text:0 "scriptures"
+ sol_religious_head_title:0 "Solis Imperator"
+ sol_religious_head_title_name:0 "Imperial Ecclesiae Solis"
+ sol_cult:0 "Sol Invictus"
+ sol_cult_adj:0 "Cultus Sol Invictus"
+ sol_cult_adherent:0 "Helian"
+ sol_cult_adherent_plural:0 "Helians"
+ sol_cult_desc:0 "In late Roman Empire many mistic cults came from the east, as a rivals to future Christian hegemony, and many emperors welcomed this synthesis of eastern and Greco-Roman tradition with open hands, and utilised it as a way to strengthen ones' position; and so, one of them, the Cult of Sol Invictus arose through the clouds of dark ages, from the light on antiquity; one Sun, one God."
+ 
+ #Title
+ k_sol_article:0 "The "
+ k_sol:0 "Solis Imperium"
+ 
