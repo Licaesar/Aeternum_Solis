@@ -1,2 +1,2 @@
-# Aeternum_Solis
+# Aeternumsolis
  Crusader Kings 3 Mod
